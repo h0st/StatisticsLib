@@ -1,6 +1,3 @@
-StatisticsLib
-=============
-
 Event statistic project for calculating statistics objects
 	- test version, under development
 	- free software
@@ -8,3 +5,7 @@ Event statistic project for calculating statistics objects
  - test event queue (as vector);
  - statistic evaluations: sum, min, max, mean, dispersion, math. expectation, std. deviation;
  - statistic parameters aproximation using Simple Moving Average algorithm;
+	
+Required:
+	- C++ compiler (gcc, g++, ...)
+	- UnitTest++ (for tests)

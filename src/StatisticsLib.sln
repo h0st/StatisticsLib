@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StatisticLib", "StatisticsLib\StatisticsLib.vcproj", "{F5FBC36A-008C-4DAD-A7E2-CFA6947A63EA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StatisticUnitTest", "Test\UnitTest\StatisticsLibUnitTest.vcproj", "{C5DB59EB-7B1C-4E45-8B0D-E51E26FA0042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5FBC36A-008C-4DAD-A7E2-CFA6947A63EA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F5FBC36A-008C-4DAD-A7E2-CFA6947A63EA}.Debug|Win32.Build.0 = Debug|Win32
+		{F5FBC36A-008C-4DAD-A7E2-CFA6947A63EA}.Release|Win32.ActiveCfg = Release|Win32
+		{F5FBC36A-008C-4DAD-A7E2-CFA6947A63EA}.Release|Win32.Build.0 = Release|Win32
+		{C5DB59EB-7B1C-4E45-8B0D-E51E26FA0042}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C5DB59EB-7B1C-4E45-8B0D-E51E26FA0042}.Debug|Win32.Build.0 = Debug|Win32
+		{C5DB59EB-7B1C-4E45-8B0D-E51E26FA0042}.Release|Win32.ActiveCfg = Release|Win32
+		{C5DB59EB-7B1C-4E45-8B0D-E51E26FA0042}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
